@@ -79,7 +79,7 @@ Remove the file hello1.txt
 ```
 del hello1.txt
 ```
-<img width="502" height="31" alt="image" src="https://github.com/user-attachments/assets/6ab7d8f2-9d49-42ac-b316-02e52e78d48f" />
+<img width="955" height="68" alt="Screenshot 2026-08-27 105603" src="https://github.com/user-attachments/assets/d5d53dd7-435d-4b70-88ec-2b962b62d511" />
 
 
 ## COMMAND AND OUTPUT
@@ -88,7 +88,7 @@ List out the file hello1.txt in the current directory
 ```
 dir hello1.txt
 ```
-<img width="533" height="167" alt="image" src="https://github.com/user-attachments/assets/6f4f33ec-5b78-47e5-8576-3b1def9c91c0" />
+<img width="505" height="267" alt="Screenshot 2026-08-27 105706" src="https://github.com/user-attachments/assets/5956bcde-ebb1-4dbd-902b-a37a9faeaeff" />
 
 
 ## COMMAND AND OUTPUT
@@ -97,7 +97,7 @@ List out all the associated file extensions
 ```
 assoc
 ```
-<img width="562" height="690" alt="image" src="https://github.com/user-attachments/assets/b33182f3-3dbe-493b-aa1e-4ca6348d5e01" />
+<img width="497" height="650" alt="Screenshot 2026-08-27 105833" src="https://github.com/user-attachments/assets/05b38a83-de8f-404b-80e4-f516cd930d63" />
 
 
 ## COMMAND AND OUTPUT
@@ -107,7 +107,7 @@ Compare the file hello.txt and rose.txt
 ```
 fc hello.txt rose.txt
 ```
-<img width="627" height="138" alt="image" src="https://github.com/user-attachments/assets/340dfa79-afe7-4d57-924b-c48c001a2344" />
+<img width="827" height="298" alt="Screenshot 2026-08-27 105959" src="https://github.com/user-attachments/assets/29f1b225-40c8-49ab-8e31-4e22e311939a" />
 
 
 ## COMMAND AND OUTPUT
